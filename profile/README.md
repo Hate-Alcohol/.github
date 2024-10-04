@@ -11,8 +11,12 @@
         <td align="center"><a href="https://github.com/jody816"><b>오재현</b></td>
     </tr>
     <tr>
-      <td align="center"><img width = "150px" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMThfMTM3%2FMDAxNjc0MDI3MjAxNTE1.iPoYI8mr2oaFXgpJORS2p3Cj8fSt56q1dRrRs8Yf6cEg.TxxBsgzP00HIDOvkoZ-72R1haznXPm4YPWHwl47pz14g.JPEG.mia931001%2FKakaoTalk_Photo_2023-01-18-15-31-17_028.jpeg&type=a340" alt=""/><br /><br /></td>
-      <td align="center"><img width = "150px" src="https://ca.slack-edge.com/T07PX2LQ2Q5-U07QCJM2UGH-cf2e83a6d744-512" alt=""/><br /></td>
+      <td align="center">
+        <img width = "150px" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMThfMTM3%2FMDAxNjc0MDI3MjAxNTE1.iPoYI8mr2oaFXgpJORS2p3Cj8fSt56q1dRrRs8Yf6cEg.TxxBsgzP00HIDOvkoZ-72R1haznXPm4YPWHwl47pz14g.JPEG.mia931001%2FKakaoTalk_Photo_2023-01-18-15-31-17_028.jpeg&type=a340" alt=""/><br />
+      </td>
+      <td align="center">
+        <img height="150px" width = "150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbQO6K8mL_m9GEmeSwU9HEdfBIMit5KgbPA&s" alt=""/><br />
+      </td>
     </tr>
     <tr>
        <td align="center">BE</td>
