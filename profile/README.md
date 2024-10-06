@@ -20,7 +20,7 @@
     </tr>
     <tr>
        <td align="center">BE</td>
-       <td align="center">BE</td>
+       <td align="center">BE/FE</td>
     </tr>
   </tbody>
 </table>
