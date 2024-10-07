@@ -9,6 +9,7 @@
     <tr>
         <td align="center"><a href="https://github.com/sangxxjin"><b>김상진</b></td>
         <td align="center"><a href="https://github.com/jody816"><b>오재현</b></td>
+        <td align="center"><a href="https://github.com/Nahyeonnnn"><b>김나현</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -17,9 +18,13 @@
       <td align="center">
         <img height="150px" width = "150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbQO6K8mL_m9GEmeSwU9HEdfBIMit5KgbPA&s" alt=""/><br />
       </td>
+      <td align="center">
+        <img height="150px" width = "150px" src="https://img.freepik.com/premium-vector/no-photo-available-vector-icon-default-image-symbol-picture-coming-soon-web-site-mobile-app_87543-18055.jpg" alt=""/><br />
+      </td>
     </tr>
     <tr>
        <td align="center">BE</td>
+       <td align="center">BE/FE</td>
        <td align="center">BE/FE</td>
     </tr>
   </tbody>
