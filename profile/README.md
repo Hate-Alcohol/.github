@@ -19,7 +19,7 @@
         <img height="150px" width = "150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbQO6K8mL_m9GEmeSwU9HEdfBIMit5KgbPA&s" alt=""/><br />
       </td>
       <td align="center">
-        <img height="150px" width = "150px" src="https://img.freepik.com/premium-vector/no-photo-available-vector-icon-default-image-symbol-picture-coming-soon-web-site-mobile-app_87543-18055.jpg" alt=""/><br />
+        <img height="150px" width = "150px" src="https://img2.quasarzone.com/editor/2023/01/28/af8fee3ca27da73298ed93478eda5037.jpg" alt=""/><br />
       </td>
     </tr>
     <tr>
